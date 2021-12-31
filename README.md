@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarek</h1>
-<h3 align="center">Full-stack developer and student at Dos Pueblos High School</h3>
+<h3 align="center">Full-stack developer, musician, and student at Dos Pueblos High School</h3>
 
 - 🔭 I’m currently working on [duck.js](github.com/tarekelkurjie/duck.js)
 
